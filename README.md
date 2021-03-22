@@ -1,6 +1,6 @@
 ### Hi, I'm Robyn :tea: 👩🏻‍💻 :sunflower:
 
-I'm a frontend developer in Houston Texas. I also volunteer with [Microsoft TEALS](https://www.microsoft.com/en-us/teals)!
+I'm a software developer in Houston Texas. I also volunteer with [Microsoft TEALS](https://www.microsoft.com/en-us/teals)!
 
 Find me on Twitter [@robynmosco](https://twitter.com/robynmosco) to chat about fun stuff, or [LinkedIn](https://www.linkedin.com/in/robynmoscowitznarro/) for anything work-related!
 
