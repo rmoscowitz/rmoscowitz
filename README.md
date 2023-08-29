@@ -1,6 +1,6 @@
 ### Hi, I'm Robyn :tea: 👩🏻‍💻 :sunflower:
 
-I'm a software developer in Houston Texas. Find me on Twitter [@robynmosco](https://twitter.com/robynmosco) to chat about fun stuff, or [LinkedIn](https://www.linkedin.com/in/robynmoscowitznarro/) for anything work-related!
+I'm a Frontend Engineer, currently working on the design system at [Handshake](https://github.com/joinhandshake). Let's connect on [LinkedIn](https://www.linkedin.com/in/robynmoscowitznarro/).
 
 
 <!--
