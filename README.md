@@ -1,6 +1,6 @@
 ### Hi, I'm Robyn :tea: 👩🏻‍💻 :sunflower:
 
-I'm a Frontend Engineer, currently working on the design system at [Handshake](https://github.com/joinhandshake). Let's connect on [LinkedIn](https://www.linkedin.com/in/robynmoscowitznarro/).
+I'm a frontend software developer. Design systems are cool! Let's connect on [LinkedIn](https://www.linkedin.com/in/robynmoscowitznarro/).
 
 
 <!--
