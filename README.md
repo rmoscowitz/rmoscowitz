@@ -1,6 +1,6 @@
 ### Hi, I'm Robyn :tea: 👩🏻‍💻 :sunflower:
 
-I'm a frontend software developer. Design systems are cool! Let's connect on [LinkedIn](https://www.linkedin.com/in/robynmoscowitznarro/).
+I'm a frontend software developer. Check out my [home page](https://rmoscowitz.github.io/) and find me on [LinkedIn](https://www.linkedin.com/in/robynmoscowitznarro/).
 
 
 <!--
